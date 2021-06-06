@@ -18,8 +18,12 @@ On frontend, display the roll numbers and their result in a tabular format.
 Installation
 Run the server npm start The server is running at localhost:3000
 
+
+
+![edge1](https://user-images.githubusercontent.com/63226048/120914810-139bde00-c6be-11eb-930c-de086c106f90.png)
+
 Components of code
 This is the homepage which consists of the form through which we will pass the values to the API.
 
-![edge1](https://user-images.githubusercontent.com/63226048/120914810-139bde00-c6be-11eb-930c-de086c106f90.png)
+
 
