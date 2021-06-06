@@ -31,6 +31,12 @@ for this input: 5,6,9,12,18,20,25,30,32,36,37,38,40,42,45,47,49,50
 
 ![edge3](https://user-images.githubusercontent.com/63226048/120914957-c5d3a580-c6be-11eb-95f9-1ccc99a2d2db.png)
 
+Result
+
+
+Libraries and Plugins
+Node.js Expressjs Pug body-parser node-fetch
+
 
 
 
